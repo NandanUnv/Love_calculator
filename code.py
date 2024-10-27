@@ -1,4 +1,4 @@
-# This code is only written based on some concepts based 
+# This code is only written based on some concepts
 
 print("Welcome to love calculator")
 
